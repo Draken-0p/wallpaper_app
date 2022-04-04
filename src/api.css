@@ -1,0 +1,43 @@
+.input{
+    height: 46px;
+    border: 0;
+    display: block;
+    background: rgba(255,255,255,.95);
+    width: 100%;
+    text-indent: 20px;
+    border-radius: 30px;
+    font-size: 15px;
+    float: left;
+    box-shadow: 0 0 0 7px rgba(246, 18, 193, 0.3);
+    margin: 0 auto;
+    margin-top: -80px;
+    width: 700px;
+    
+
+
+}
+.img{
+    display: flex;
+    margin: 2%;
+    margin-top: -520px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.box{
+    display: flex;
+}
+.search-item{
+    color: #0171b3;
+    text-align: center;
+    font-weight: 400;
+    margin: 45px 0 0;
+    font-size: 24px;
+    line-height: 30px;
+    margin-top: -16px;
+    margin-bottom: 28px;;
+     
+}
+.load{
+    position: relative;
+    bottom: 30rem;
+}

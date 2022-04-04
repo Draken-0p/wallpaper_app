@@ -1,0 +1,32 @@
+.header {
+    display: flex;
+    background-image: url('../assets/back-img.jpg');
+    width:100%;
+    background-position: center ;
+    height: 75vh;
+    background-size: 100%;
+  }
+.home-header{
+    flex: 1;
+  
+  text-align: center;
+  justify-content: center;
+  margin-top: 18px;
+}
+.home-header h1{
+    color: wheat;
+}
+.home-header h2{
+    color: white;
+}
+ body{
+        margin:0px;
+  }
+.clouds{
+    background-position: top center;
+    height: 330px;
+    background-size: auto 380px;
+    margin-top: 16rem;
+
+    background-image: url('../assets/clouds.png');
+}

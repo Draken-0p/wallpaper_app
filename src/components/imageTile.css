@@ -1,0 +1,13 @@
+.imgtile{
+    display: flex;
+}
+
+
+/* CSS */
+.icon{
+ position: relative;
+ left: 8rem;
+}
+.icon:hover{
+    cursor: pointer;
+}
