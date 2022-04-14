@@ -11,7 +11,7 @@ const ImageTile = ({imgsrc , imgId}) => {
     backgroundPosition: 'center',
     height: '250px',
     width: '250px',
-    margin: '10px',
+    margin: '10px', borderRadius : '2rem',
 }}>
 
     </div>

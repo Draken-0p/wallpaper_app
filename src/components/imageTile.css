@@ -1,5 +1,6 @@
 .imgtile{
     display: flex;
+
 }
 
 
@@ -11,3 +12,6 @@
 .icon:hover{
     cursor: pointer;
 }
+
+
+
